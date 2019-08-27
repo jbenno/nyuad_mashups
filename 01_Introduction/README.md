@@ -1,7 +1,7 @@
 # Introduction
 ## Day 1 - Mashups, art, and the web
 
-### Artists in the field:
+### Artists
 - Marc Napier
   [Distorted Barbie](http://potatoland.org)
 - Jer Thorp
@@ -15,9 +15,8 @@
 - John Cage
 - Robert Rauschenberg
 
-### Music mashups
-Phil Glass
-Steve Reich, The Come Out
+### Music
+Phil Glass, Steve Reich (e.g. The Come Out)
 
 ### History of web mashup
 - Vannevar Bush
