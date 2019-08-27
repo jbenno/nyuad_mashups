@@ -1,6 +1,7 @@
 # Introduction
+![Don't store information on computers!](/01_Introduction/IMG_5765.jpeg)
+
 ## Day 1 - Mashups, art, and the web
-![Don't store information](\
 
 ### Artists
 - Marc Napier\
@@ -43,5 +44,8 @@
 
 ### APIs vs. scraping
 
-### [My slides](/mashups1.pdf)
+### [My slides](/01_Introduction/mashups1.pdf)
+
+## Assignment
+Read this text on collage from Busch, Hellige, Klanten (ed.): ["The Age of Collage"](/01_Introduction/collage.pdf)
 
