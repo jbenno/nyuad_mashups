@@ -1,6 +1,7 @@
 # Mashups - IM-UH 2310
 ===============================
-(subject to change)
+*This is still the draft syllabus and subject to change*
+*It will become my version of Craig Protzel's class (Thanks Craig! - See his syllabus here: [Mashups](https://github.com/craigprotzel/Mashups/))*
 
 School: NYUAD
 Program: Interactive Media  
@@ -13,6 +14,8 @@ Instructor: Joerg Blumtritt
 Email: joerg.blumtritt@nyu.edu  
 Office: Arts Center 163  
 Office Hours: Tuesdays. Please make an appointment via mail.
+
+
 
 ## Course Description
 This class is about creating interactive web page applications that integrate (“mash-up”) other sources and materials. The goal of the class will be for each student to have 3 well-designed functional single-page web applications by end of semester. Subscribing to a project-oriented approach, a majority of class time will be spent reviewing and writing code, primarily Javascript, for client-side (front-end) web development. We will use a number of Javascript libraries, e.g. jQuery, Underscore, D3,p5, Three and more, to help build user experiences. Where server-side (back-end) development is required, we will use the Node-Express framework. Students should have some programming experience as well as an exposure to basic client-side web development, specifically HTML and CSS. Experience with Javascript is a plus.
@@ -94,11 +97,15 @@ Laptop use will be expected in class, but should be focused on class-specific ta
 
 Mobile Phones
 -------------
- Please put them on vibrate or turn them off before you come to class. If you have an emergency that requires you to answer your phone during class, please let me know me ahead of time or quietly step out of class to take the call. Otherwise, please refrain from using your mobile phone during class for emailing, messaging, or any other non-class work. 
+Please put them on vibrate or turn them off before you come to class. If you have an emergency that requires you to answer your phone during class, please let me know me ahead of time or quietly step out of class to take the call. Otherwise, please refrain from using your mobile phone during class for emailing, messaging, or any other non-class work. 
 
-Communicate
+My availability
 -----------
 If you have any questions, would like extra help, or need further instruction, please reach out to me. You can communicate with me via e-mail, sign up for ofice hours, speak with me before class, after class or during break, but please let me know if you have any concerns pertaining to the course.
+
+Accommodation
+-------------
+Diversity and inclusion are important tenets of NYUAD and my own teaching philosophy. Please let me know if you have a disability I should be aware of or require special assistance. I am happy to make accommodations. 
 
 Academic Integrity
 ------------------
