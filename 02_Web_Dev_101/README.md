@@ -1,5 +1,11 @@
 # Week 2: Web Development
 
+- A bare html web page [html_boilerplate.html](/02_Web_Dev_101/html_boilerplate.html)
+- Results can be viewed here: [https://jbenno.github.io](https://jbenno.github.io/nyuad_mashups/02_Web_Dev_101/html_boilerplate.html)/
+This is second link necessary since github.com does not directly allow the display of HTML files. We will explore github further during the course, so don't worry if you are not yet comfortable with using it.
+
+We will built web pages from this template and add style, images, tables, and all the other nice features to it step by step.
+
 ### How to view a web page's source code
 If using Safari, enable developer options in preferences first. For Chrome and Firefox the source can be viewed directly with the same keyboard shortcut 'option'+'command'+'U' or 'CTRL'+'U' in Windows.
 ![Go to Safari/Preferences/Advanced Click Developer](/02_Web_Dev_101/screenshot0.png)
@@ -12,9 +18,29 @@ The history of the Well is like a premonition of the history of social media. He
 
 [The Virtual Community](http://www.rheingold.com/vc/book/intro.html) by Howard Rheingold is a good original source to understand the Web and early social media.
 
-### Ressources about HTML, CSS, Javascript
+### Digital Typesetting
+- [Decode Unicode](http://www.decodeunicode.org/)
+- [w3c Layout and Typography](https://www.w3.org/International/layout)
+
+### HTML
 [w3schools](https://www.w3schools.com)
 
-### Assignment
+### The Process
+1. Concept workshop: Understand the basic task that the page shoud fulfill
+2. Draft a proof of concept that can be reasonably built in a few days or weeks (depending on how big the organisation is)
+3. Draft user stories, summarize them under the larger umbrella of an epic: [User Stories in Agile Project Management](https://www.atlassian.com/agile/project-management/user-stories)
+4. Built the proof of concept in short iterations. Involve your users in the process and let them review every step.
+5. After a feature is completed, deploy the project on a test server. Let users test it (and try to break it)
+6. Iterate
+7. Deploy the final version on the production server.
+8. Continue to measure performance monitor failures and other key performance indicators.
+9. Propose an MVP.
+
+### Assignment until Wednesday
 - Find web pages and "dismantle" their HTML code - delete and add new lines, mashup different pages, etc.
 - Look at Mark Napier's mashup web tools [Riot](http://potatoland.org/riot/) and [Shredder](http://potatoland.org/shredder/) and understand what they actually do.
+
+### Assignment until Monday next week
+- Look at [webdesign.tutsplus.com/series/design-school-for-developers](https://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793) which outlines basic principles of a design process for web sites.
+- Look at some CSS files (e.g. the style sheet of The Well, etc.).
+- Scetch a mock web development project for a site that does something you find interesting or funny.
