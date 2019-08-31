@@ -36,6 +36,17 @@ The history of the Well is like a premonition of the history of social media. He
 8. Continue to measure performance monitor failures and other key performance indicators.
 9. Propose an MVP.
 
+### HTML 5
+- [HTML 5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+- [Semantic Markup](https://www.webmechanix.com/advantages-of-html5-and-semantic-markup)
+
+### Website security
+- [Mozilla Website Security](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
+- [Example: Cross-Site-Scripting with faulty language specification](https://code.google.com/archive/p/doctype-mirror/wikis/ArticleUtf7.wiki)
+
+### Responsive design
+- [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
+
 ### Assignment until Wednesday
 - Find web pages and "dismantle" their HTML code - delete and add new lines, mashup different pages, etc.
 - Look at Mark Napier's mashup web tools [Riot](http://potatoland.org/riot/) and [Shredder](http://potatoland.org/shredder/) and understand what they actually do.
