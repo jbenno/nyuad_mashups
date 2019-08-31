@@ -40,7 +40,8 @@ The history of the Well is like a premonition of the history of social media. He
 - Find web pages and "dismantle" their HTML code - delete and add new lines, mashup different pages, etc.
 - Look at Mark Napier's mashup web tools [Riot](http://potatoland.org/riot/) and [Shredder](http://potatoland.org/shredder/) and understand what they actually do.
 
-### Assignment until Monday next week
+### Assignment until Monday the following week
 - Look at [webdesign.tutsplus.com/series/design-school-for-developers](https://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793) which outlines basic principles of a design process for web sites.
 - Look at some CSS files (e.g. the style sheet of The Well, etc.).
+- Look at [geocitiesizer](https://www.wonder-tonic.com/geocitiesizer/), put in the URL of different websites and try to find out what it does.
 - Scetch a mock web development project for a site that does something you find interesting or funny.
