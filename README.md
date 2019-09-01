@@ -29,7 +29,7 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 2 Web Dev 101](https://github.com/jbenno?nyuad_mashups/tree/master/02_Web_Dev_101)
 
-#### [WEEK 3 Making Things Happen On The Page](https://github.com/jbenno?nyuad_mashups/tree/master/03_Making_Things_Happen_On_The_Page)
+#### [WEEK 3 Making Things Happen On The Page](https://github.com/jbenno?nyuad_mashups/03_Making_Things_Happen_On_The_Page)
 
 #### [WEEK 4 Structuring Your App](https://github.com/jbenno?nyuad_mashups/tree/master/04_Structuring_Your_App)
 
