@@ -29,11 +29,11 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 2 Web Dev 101](/02_Web_Dev_101/)
 
-#### [WEEK 3 Making Things Happen On The Page](/03_Making_Things_Happen_On_The_Page/)
+#### [WEEK 3 CSS](/03_CSS/)
 
-#### [WEEK 4 Structuring Your App](https://github.com/jbenno?nyuad_mashups/tree/master/04_Structuring_Your_App)
+#### [WEEK 4 Making the Page (Inter)Active - Proposals for Project 1](/04_JS/)
 
-#### [WEEK 5 Dealing with Data + Project #1 DUE](https://github.com/jbenno?nyuad_mashups/tree/master/09_10_Dealing_With_Data)
+#### [WEEK 5 Data + Project #1 DUE](/05_Data/)
 
 Teaching Methodology
 --------------------
