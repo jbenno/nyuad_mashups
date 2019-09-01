@@ -25,11 +25,11 @@ This class is about creating interactive web page applications that integrate (â
 * **PART II: Weeks 6 - 9 (Classes 11 - 18) Client-Side Javascript Libraries**
 * **PART III: Weeks 10 - 14 (Classes 19 - 28) Server-Side Web Development**
 
-#### [WEEK 1 Introduction to Mashups, Remixes, and the Web](https://github.com/jbenno/nyuad_mashups/tree/master/01_Introduction)
+#### [WEEK 1 Introduction to Mashups, Remixes, and the Web](/01_Introduction/)
 
-#### [WEEK 2 Web Dev 101](https://github.com/jbenno?nyuad_mashups/tree/master/02_Web_Dev_101)
+#### [WEEK 2 Web Dev 101](/02_Web_Dev_101/)
 
-#### [WEEK 3 Making Things Happen On The Page](https://github.com/jbenno?nyuad_mashups/03_Making_Things_Happen_On_The_Page)
+#### [WEEK 3 Making Things Happen On The Page](/03_Making_Things_Happen_On_The_Page/)
 
 #### [WEEK 4 Structuring Your App](https://github.com/jbenno?nyuad_mashups/tree/master/04_Structuring_Your_App)
 
