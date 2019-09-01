@@ -47,16 +47,31 @@ Grading
 **30%** Projects #1 & #2 (15% each)    
 **25%** Final Project  
 
+Rubrics - each 30 points:
+* Technical - completion of the technical task, technical competency and insights, documentation
+* Creative - creative input, personal expression, meaningful direction and overall thoughtfulness
+* User experience -  usability, design, intuitivity
+
+Scale
+* A+: From 88 to 90 points,
+* A: From 85 to 87 points,
+* A-: From 80 to 84 points,
+* B+: From 75 to 79 points,
+* B: From 70 to 74 points,
+* B-: From 65 to 69 points,
+* C+: From 60 to 64 points,
+* C: From 55 to 59 points,
+* C-: From 50 to 54 points,
+* D: From 45 to 49 points,
+* F: 44 points or lower.
+
+
 Homework Assignments
 --------------------
 Generally there will be homework assignments. Homework may include reading, writing, watching videos, doing code exercises, creating web prototypes, and completing projects. Feel free to collaborate with your classmates and work together on any assignment(s). However, generally everyone should share/submit their own individual work.
 
 Class time will be spent going over homework assignments. Expect to be asked to share your work every class. Some classes everyone may demonstrate their work, other classes only a few students will, but always be prepared to do so. Regardless, your work must be completed by prior to class and ready to be shared, discussed, presented, and critiqued in class
 
-Homework will be evaluated on a 3 point scale:   
-* **1: Technical** - completion of the technical task    
-* **1: Creative** - demonstration of creative expression    
-* **1: Usability** - attempt to make the work usable    
 
 Projects 1 & 2
 --------------
