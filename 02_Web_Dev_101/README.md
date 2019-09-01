@@ -1,4 +1,7 @@
-# Week 2: Web Development
+# Week 2: Web Development (and first look on APIs)
+
+## Web Development 1: HTML
+(CSS will follow in week 3)
 
 - A bare html web page [html_boilerplate.html](/02_Web_Dev_101/html_boilerplate.html)
 - Results can be viewed here: [https://jbenno.github.io](https://jbenno.github.io/nyuad_mashups/02_Web_Dev_101/html_boilerplate.html)/
@@ -46,6 +49,19 @@ The history of the Well is like a premonition of the history of social media. He
 
 ### Responsive design
 - [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
+
+## APIs
+Introduction to APIs on the Web and on other applications
+
+- Calling an API
+- Parsing JSON
+- Some examples to play arround with:\
+[Google Maps](https://developers.google.com/maps/documentation/javascript/tutorial)\
+[Foursquare](https://developer.foursquare.com)\
+[Wikipedia](https://m.mediawiki.org/wiki/API:Main_page)
+
+
+## Homework
 
 ### Assignment until Wednesday
 - Find web pages and "dismantle" their HTML code - delete and add new lines, mashup different pages, etc.
