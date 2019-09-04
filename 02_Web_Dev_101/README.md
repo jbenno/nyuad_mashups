@@ -48,6 +48,7 @@ The history of the Well is like a premonition of the history of social media. He
 - [Example: Cross-Site-Scripting with faulty language specification](https://code.google.com/archive/p/doctype-mirror/wikis/ArticleUtf7.wiki)
 
 ### Responsive design
+- [Example html with increasing sophistication](/02_Web_Dev_101/responsive_web_design/)
 - [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
 
 ## APIs
