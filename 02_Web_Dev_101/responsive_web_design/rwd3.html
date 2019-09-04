@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  background-color: tomato;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  border: 1px solid red;
+  padding: 10px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 10px;
+  border: 1px solid green;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>NYUAD Mashups</h1>
+</div>
+
+<div class="row">
+<div class="col-3">
+    <ul>
+      <li>Week 1</li>
+      <li>Week 2</li>
+      <li>Week 3</li>
+      <li>Week 4</li>
+    </ul>
+</div>
+
+  <div class="col-9">
+    <h1>Week 2</h1>
+    <p>(CSS will follow in week 3)</p>
+    <p>If using Safari, enable developer options in preferences first. For Chrome and Firefox the source can be viewed directly with the same keyboard shortcut 'option'+'command'+'U' or 'CTRL'+'U' in Windows. </p>
+    <img src="http://www.slow-media.net/wp-content/uploads/cropped-55B6855D-BCEA-4F8A-B4C3-BA9FC8236ADE.jpeg" alt="Amor addit" />
+
+</p>
+  </div>
+</div>
+<div class="row">
+<div class="col-9">
+      <h2>Web development</h2>
+      <p>A bare html web page html_boilerplate.html
+Results can be viewed here: https://jbenno.github.io/ This is second link necessary since github.com does not directly allow the display of HTML files. We will explore github further during the course, so don't worry if you are not yet comfortable with using it.
+We will built web pages from this template and add style, images, tables, and all the other nice features to it step by step.</p>
+      <h2>APIs</h2>
+      <p>Introduction to APIs on the Web and on other applications
+Calling an API
+Parsing JSON
+Some examples to play arround with:
+Google Maps
+Foursquare
+Wikipedia</p>
+    <h2>Assignments</h2>
+        <p>Assignment until Wednesday
+Find web pages and "dismantle" their HTML code - delete and add new lines, mashup different pages, etc.
+Look at Mark Napier's mashup web tools Riot and Shredder and understand what they actually do.
+Assignment until Monday the following week
+
+Look at webdesign.tutsplus.com/series/design-school-for-developers which outlines basic principles of a design process for web sites.
+Look at some CSS files (e.g. the style sheet of The Well, etc.).
+Look at geocitiesizer, put in the URL of different websites and try to find out what it does.
+Scetch a mock web development project for a site that does something you find interesting or funny.</p>
+</div>
+</div>
+<div class="row">
+<div class="col-3">
+  <p>Resize the browser window. Try on different devices.</p>
+</div>
+</div>
+
+</body>
+</html>

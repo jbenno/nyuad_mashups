@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+}
+
+html {
+  font-family: "Arial";
+}
+
+.header {
+  background-color: tomato;
+  color: #ffffff;
+  padding:10px;
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  padding: 8px;
+  margin-bottom: 7px;
+  background-color: aqua;
+  color: black;
+}
+
+.menu li:hover {
+  background-color: DarkCyan;
+}
+
+.aside {
+  background-color: Chartreuse;
+  padding: 15px;
+  color: black;
+  text-align: center;
+  font-size: 14px;
+}
+
+.footer {
+  background-color: Grey;
+  color: #ffffff;
+  text-align: center;
+  font-size: 12px;
+  padding: 15px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+/* styles for different devices */
+[class*="col-"] { /* mobile */
+  width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+  /* tablets */
+  .col-s-1 {width: 8.33%;}
+  .col-s-2 {width: 16.66%;}
+  .col-s-3 {width: 25%;}
+  .col-s-4 {width: 33.33%;}
+  .col-s-5 {width: 41.66%;}
+  .col-s-6 {width: 50%;}
+  .col-s-7 {width: 58.33%;}
+  .col-s-8 {width: 66.66%;}
+  .col-s-9 {width: 75%;}
+  .col-s-10 {width: 83.33%;}
+  .col-s-11 {width: 91.66%;}
+  .col-s-12 {width: 100%;}
+}
+@media only screen and (min-width: 768px) {
+  /* big screen */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>NYUAD Mashups</h1>
+</div>
+
+<div class="row">
+  <div class="col-3 col-s-3 menu">
+    <ul>
+      <li>Week 1</li>
+      <li>Week 2</li>
+      <li>Week 3</li>
+      <li>Week 4</li>
+    </ul>
+  </div>
+
+  <div class="col-6 col-s-9">
+    <h1>Week 2</h1>
+    <p>(CSS will follow in week 3)</p>
+    <p>If using Safari, enable developer options in preferences first. For Chrome and Firefox the source can be viewed directly with the same keyboard shortcut 'option'+'command'+'U' or 'CTRL'+'U' in Windows. </p>
+    <img src="http://www.slow-media.net/wp-content/uploads/cropped-55B6855D-BCEA-4F8A-B4C3-BA9FC8236ADE.jpeg" alt="Amor addit" />
+
+</p>
+  </div>
+
+  <div class="col-3 col-s-12">
+    <div class="aside">
+      <h2>Web development</h2>
+      <p>A bare html web page html_boilerplate.html
+Results can be viewed here: https://jbenno.github.io/ This is second link necessary since github.com does not directly allow the display of HTML files. We will explore github further during the course, so don't worry if you are not yet comfortable with using it.
+We will built web pages from this template and add style, images, tables, and all the other nice features to it step by step.</p>
+      <h2>APIs</h2>
+      <p>Introduction to APIs on the Web and on other applications
+Calling an API
+Parsing JSON
+Some examples to play arround with:
+Google Maps
+Foursquare
+Wikipedia</p>
+    <h2>Assignments</h2>
+        <p>Assignment until Wednesday
+Find web pages and "dismantle" their HTML code - delete and add new lines, mashup different pages, etc.
+Look at Mark Napier's mashup web tools Riot and Shredder and understand what they actually do.
+Assignment until Monday the following week
+
+Look at webdesign.tutsplus.com/series/design-school-for-developers which outlines basic principles of a design process for web sites.
+Look at some CSS files (e.g. the style sheet of The Well, etc.).
+Look at geocitiesizer, put in the URL of different websites and try to find out what it does.
+Scetch a mock web development project for a site that does something you find interesting or funny.</p>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <p>Resize the browser window. Try on different devices.</p>
+</div>
+
+</body>
+</html>
