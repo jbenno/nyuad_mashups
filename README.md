@@ -29,7 +29,7 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 2 Web Dev 101](/02_Web_Dev_101/)
 
-#### [WEEK 3 CSS](/03_CSS/)
+#### [WEEK 3 JS](/03_JS/)
 
 #### [WEEK 4 Making the Page (Inter)Active - Proposals for Project 1](/04_JS/)
 
