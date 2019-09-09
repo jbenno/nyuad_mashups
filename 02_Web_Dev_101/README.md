@@ -1,7 +1,6 @@
 # Week 2: Web Development (and first look on APIs)
 
 ## Web Development 1: HTML
-(CSS will follow in week 3)
 
 - A bare html web page [html_boilerplate.html](/02_Web_Dev_101/html_boilerplate.html)
 - Results can be viewed here: [https://jbenno.github.io](https://jbenno.github.io/nyuad_mashups/02_Web_Dev_101/html_boilerplate.html)/
