@@ -1,4 +1,5 @@
 # Week 4 - HTTP and APIs
+[The scheduled short presentations sketched on the whiteboard](IMG_9556.jpeg)
 
 - [Whitney Artport Commissions](https://whitney.org/artport/commissions)
 
