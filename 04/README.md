@@ -1,17 +1,26 @@
-# Week 4 - APIs and Interaction
+# Week 4 - HTTP and APIs
 
 - [Whitney Artport Commissions](https://whitney.org/artport/commissions)
 
 ### HTTP
-- Understanding the protocol
+[HTTP on developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- Understanding the protocol 
 - Connections
 - Sessions
-- Requests and responses
+- [Requests and responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 - Statelessness
 - The cache
 - Cookies
-- CORS
+- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - Security
+- Browser compatibility
+
+* [Can I use ...?](https://caniuse.com)
+* [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+* [Cache-related headers](https://redbot.org/)
+
+### A local web server
+[Running a local web server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server#Running_a_simple_local_HTTP_server)
 
 ### APIs
 
