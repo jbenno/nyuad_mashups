@@ -31,9 +31,9 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 3 JS](/03_JS/)
 
-#### [WEEK 4 Making the Page (Inter)Active - Proposals for Project 1](/04_JS/)
+#### [WEEK 4 Making the Page (Inter)Active - Proposals for Project 1](/04/)
 
-#### [WEEK 5 Data + Project #1 DUE](/05_Data/)
+#### [WEEK 5 Data + Project #1 DUE](/05/)
 
 Teaching Methodology
 --------------------
