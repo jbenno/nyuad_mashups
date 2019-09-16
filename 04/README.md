@@ -19,6 +19,10 @@
 * [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * [Cache-related headers](https://redbot.org/)
 
+### AJAX
+
+### JQuery
+
 ### A local web server
 [Running a local web server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server#Running_a_simple_local_HTTP_server)
 
