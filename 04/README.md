@@ -1,6 +1,12 @@
 # Week 4 - HTTP and APIs
-[The scheduled short presentations sketched on the whiteboard](IMG_9556.jpeg)
+[The scheduled short presentations sketched on the whiteboard](IMG_9556.jpeg)\
 
+### New: Resorces page
+Here I started to put together the most useful and elementary resources for web development and JavaScript. Pleas have a look, in particular into the book Brown, Learning JavaScript:
+[Resources for the class](https://github.com/jbenno/nyuad_mashups/tree/master/Resources)
+
+
+### Readings
 - [Whitney Artport Commissions](https://whitney.org/artport/commissions)
 
 ### HTTP
