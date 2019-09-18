@@ -26,6 +26,9 @@ Here I started to put together the most useful and elementary resources for web 
 * [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * [Cache-related headers](https://redbot.org/)
 
+### JavaScript
+- [Compatibility of ES6/ES7](https://kangax.github.io/compat-table/es6/)
+
 ### AJAX
 
 ### JQuery
