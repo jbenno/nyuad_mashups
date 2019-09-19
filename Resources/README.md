@@ -12,3 +12,6 @@ Very similar however a bit easier to follow - good reference to work on CSS and 
 
 ### Libraries
 [Node.js](https://nodejs.org/en/)
+
+### Videos
+[What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY) - suggested by Gabi
