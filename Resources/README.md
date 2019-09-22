@@ -10,6 +10,9 @@ The Mozilla pages are very thorogh, too. It gives a good introduction and has a 
 Very similar however a bit easier to follow - good reference to work on CSS and the HTML page in particular:
 - [w3schools](https://www.w3schools.com)
 
+### AJAX
+- Good video introduction to APIs via AJAX: [JavaScript AJAX XHR for Beginners](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005590284&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
+
 ### Libraries
 [Node.js](https://nodejs.org/en/)
 
