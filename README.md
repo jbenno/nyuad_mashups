@@ -33,7 +33,13 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 4 Making the Page (Inter)Active - Proposals for Project 1](/04/)
 
-#### [WEEK 5 Data + Project #1 DUE](/05/)
+#### [WEEK 5 Data](/05/)
+
+#### [WEEK 6 Visualization, Projekt 1](/06/)
+
+#### [WEEK 7 Visualisation, Animation](/07)
+
+- Fall break
 
 Teaching Methodology
 --------------------
@@ -42,10 +48,10 @@ This is a production-based course that involves programming work both inside and
 Grading
 -------
 **10%** Attendance  
-**15%** Participation  
+**10%** Participation  
 **20%** Homework Assignments  
 **30%** Projects #1 & #2 (15% each)    
-**25%** Final Project  
+**30%** Final Project  
 
 Rubrics - each 30 points:
 * Technical - completion of the technical task, technical competency and insights, documentation
@@ -53,9 +59,8 @@ Rubrics - each 30 points:
 * User experience -  usability, design, intuitivity
 
 Scale
-* A+: From 88 to 90 points,
-* A: From 85 to 87 points,
-* A-: From 80 to 84 points,
+* A: From 86 to 90 points,
+* A-: From 80 to 85 points,
 * B+: From 75 to 79 points,
 * B: From 70 to 74 points,
 * B-: From 65 to 69 points,
