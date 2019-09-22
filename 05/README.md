@@ -1,6 +1,5 @@
-# Data
+# Getting data from APIs
 
-### JSON
 1. Creating JSON data:
 - same as `object` in JavaScript, however strict: only `"` and no `'` allowed, identifiers have to be in `"`, no final `,` or `;`
 - use [JSON Lint](https://jsonlint.com/) as validator for your JSON test documents
@@ -11,8 +10,7 @@
 
 3. Calling an API
 ... using the [Open Air Quality API](https://docs.openaq.org/):
-[api.html
-- [XMLHttpRequest readyState](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState)
+[XMLHttpRequest readyState](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState)
 
 4. Parse JSON
 
