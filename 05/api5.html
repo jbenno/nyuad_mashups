@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>Ajax</title>
+</head>
+<body>
+        <div id="data"></div>
+    <script>
+    let dataOutput = document.querySelector("#data"); // where the results will be put
+    let xhr = new XMLHttpRequest();
+    let url = "https://api.openaq.org/v1/latest?country=AE" ;   
+    
+    console.log(xhr);
+    xhr.onreadystatechange = function(){
+        if(xhr.readyState == 4 && xhr.status == 200){ // do things when data is ready
+            dataOutpuy.innerHTML = xhr.responseText;
+        }
+    }
+    xhr.open('GET',url);
+    xhr.send();
+    </script>
+</body></html>

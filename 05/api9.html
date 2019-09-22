@@ -1,0 +1,40 @@
+<html>
+<head>
+    <title>Ajax</title>
+    <script type="text/javascript" src="key.js"></script> <!-- api-key lies in seperate file and provides a variable 'key' -->
+</head>
+<body>
+        <div id="data"></div>
+        <input id="next" type="button" value="next">
+    
+    <script>    
+    let btn = document.querySelector("#next");
+    btn.addEventListener("click", loadData);
+        
+    let dataOutput = document.querySelector("#data");
+    let xhr = new XMLHttpRequest();
+    
+    function loadData(){ 
+        let url = "https://api.nytimes.com/svc/topstories/v2/science.json?api-key=" + key; 
+        
+        xhr.onreadystatechange = function(){
+        let rawData;
+        
+        if(xhr.readyState == 4 && xhr.status == 200){
+            rawData = JSON.parse(xhr.responseText);
+            outputData(rawData);
+        }
+    }
+    xhr.open('GET',url);
+    xhr.send();
+    }
+    
+    function outputData(data){ 
+        let i;
+        for (i of data.results){
+            dataOutput.innerHTML += "<li>" + i.title + "</li>";
+        }
+    }
+    
+    </script>
+</body></html>

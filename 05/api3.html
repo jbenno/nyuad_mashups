@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>Ajax</title>
+</head>
+<body>
+        <div id="data"></div>
+    <script>
+
+    let xhr = new XMLHttpRequest();
+    let url = "https://api.openaq.org/v1/latest?country=AE" ;   
+    
+    console.log(xhr);
+    xhr.open('GET',url);
+    xhr.send(); // readyState:4, status: 200, `response` is populated; the JSON is auto-converted into an object in the script
+    </script>
+</body></html>

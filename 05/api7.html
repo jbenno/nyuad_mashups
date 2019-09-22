@@ -1,0 +1,32 @@
+<html>
+<head>
+    <title>Ajax</title>
+</head>
+<body>
+        <div id="data"></div>
+    <script>
+    let dataOutput = document.querySelector("#data");
+    let xhr = new XMLHttpRequest();
+    let url = "https://api.openaq.org/v1/latest?country=AE" ; 
+    
+    let rawData;
+    
+    console.log(xhr);
+    xhr.onreadystatechange = function(){
+        if(xhr.readyState == 4 && xhr.status == 200){
+            rawData = JSON.parse(xhr.responseText);
+            outputData(rawData); // only look for certain fields
+        }
+    }
+    xhr.open('GET',url);
+    xhr.send();
+    
+    function outputData(data){ // loop through all the cases in the data
+        let i;
+        for (i of data.results){
+            dataOutput.innerHTML += i.city + ", " + i.country + "<br>";
+        }
+    }
+    
+    </script>
+</body></html>

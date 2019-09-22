@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>Ajax</title>
+</head>
+<body>
+        <div id="data"></div>
+    <script>
+
+    let xhr = new XMLHttpRequest();
+    let url = "https://api.openaq.org/v1/latest?country=AE" ; // API url  
+    
+    console.log(xhr);
+    xhr.open('GET',url); //call the API. The readyState has changed to readyState: 1 (see https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState)
+    
+    </script>
+</body></html>

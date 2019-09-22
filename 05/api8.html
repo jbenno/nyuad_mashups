@@ -1,0 +1,39 @@
+<html>
+<head>
+    <title>Ajax</title>
+</head>
+<body>
+        <div id="data"></div>
+        <input type="button" value="next">
+    
+    <script>    
+    let btn = document.querySelector("input"); //add the button
+    btn.addEventListener("click", loadData); // which loads the data on click
+        
+    let url = "https://api.openaq.org/v1/latest?country=AE";  
+        
+    let dataOutput = document.querySelector("#data");
+    let xhr = new XMLHttpRequest();
+    
+    function loadData(){    //the load function which is called by the click and calls then the output function
+        xhr.onreadystatechange = function(){
+        let rawData;
+        
+        if(xhr.readyState == 4 && xhr.status == 200){
+            rawData = JSON.parse(xhr.responseText);
+            outputData(rawData);
+        }
+    }
+    xhr.open('GET',url);
+    xhr.send();
+    }
+    
+    function outputData(data){ 
+        let i;
+        for (i of data.results){
+            dataOutput.innerHTML += i.city + ", " + i.country + "<br>";
+        }
+    }
+    
+    </script>
+</body></html>
