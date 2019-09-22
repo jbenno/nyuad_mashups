@@ -16,13 +16,12 @@ Office: Arts Center 163
 Office Hours: Tuesdays. Please make an appointment via mail.
 
 
-
 ## Course Description
-This class is about creating interactive web page applications that integrate (“mash-up”) other sources and materials. The goal of the class will be for each student to have 3 well-designed functional single-page web applications by end of semester. Subscribing to a project-oriented approach, a majority of class time will be spent reviewing and writing code, primarily Javascript, for client-side (front-end) web development. We will use a number of Javascript libraries, e.g. jQuery, Underscore, D3,p5, Three and more, to help build user experiences. Where server-side (back-end) development is required, we will use the Node-Express framework. Students should have some programming experience as well as an exposure to basic client-side web development, specifically HTML and CSS. Experience with Javascript is a plus.
+This class is about creating interactive web page applications that integrate (“mash-up”) other sources and materials. The goal of the class will be for each student to have 2 well-designed functional single-page web applications by end of semester. Subscribing to a project-oriented approach, a majority of class time will be spent reviewing and writing code, primarily Javascript, for client-side (front-end) web development. We will use a number of Javascript libraries, e.g. jQuery, Underscore, D3,p5, Three and more, to help build user experiences. Where server-side (back-end) development is required, we will use the Node-Express framework. Students should have some programming experience as well as an exposure to basic client-side web development, specifically HTML and CSS. Experience with Javascript is a plus.
 
 #### Overview
-* **PART I: Weeks 1 - 5 (Classes 01 - 10) Client-Side Web Development + API Fundamentals**
-* **PART II: Weeks 6 - 9 (Classes 11 - 18) Client-Side Javascript Libraries**
+* **PART I: Weeks 1 - 3 (Classes 01 - 10) Client-Side Web Development + API Fundamentals**
+* **PART II: Weeks 4 - 9 (Classes 11 - 18) Client-Side Javascript Libraries**
 * **PART III: Weeks 10 - 14 (Classes 19 - 28) Server-Side Web Development**
 
 #### [WEEK 1 Introduction to Mashups, Remixes, and the Web](/01_Introduction/)
@@ -50,7 +49,7 @@ Grading
 **10%** Attendance  
 **10%** Participation  
 **20%** Homework Assignments  
-**30%** Projects #1 & #2 (15% each)    
+**30%** Midterm Project  
 **30%** Final Project  
 
 Rubrics - each 30 points:
@@ -77,10 +76,9 @@ Generally there will be homework assignments. Homework may include reading, writ
 
 Class time will be spent going over homework assignments. Expect to be asked to share your work every class. Some classes everyone may demonstrate their work, other classes only a few students will, but always be prepared to do so. Regardless, your work must be completed by prior to class and ready to be shared, discussed, presented, and critiqued in class
 
-
-Projects 1 & 2
---------------
-These two projects can be thought of as mini-mid terms. Both will build off preceding homework assignments thus allowing you to iteratively build towards their completion. Project 1 will involve creating a single page (client-side only) web experience that, upon user input, responds with data from at least 2 public web APIs. Project 2 will involve creating a single page (client-side only) web experience leverages data from at least one public web API (or a queryable dataset) and incorporates the use of at least one Javascript “interaction” library, such as D3, p5, Three, ml5, etc. For both projects, you will be expected to present your site, discuss your work, articulate your creative process, and document the entire project.
+Midterm Project
+---------------
+The midterm project will involve creating a single page (client-side only) web experience that, upon user input, responds with data from at least 2 public web APIs and/or a queryable dataset. You will be expected to present your site, discuss your work, articulate your creative process, and document the entire project.
 
 Final Project
 -------------
