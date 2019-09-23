@@ -1,6 +1,9 @@
 # Week 5
 
-## Getting data from APIs
+### IM Program Policy
+- Brief introduction by Ume and Jack on the IM Program Policies
+
+### Getting data from APIs
 
 1. Creating JSON data:
 - same as `object` in JavaScript, however strict: only `"` and no `'` allowed, identifiers have to be in `"`, no final `,` or `;`
@@ -22,8 +25,12 @@
 
 See example scripts in the [Examples](/05/Examples/) folder. Start with the api_.html files.
 
-## jQuery
+### jQuery
 Some more example script is in the [Examples](/05/Examples/) folder. The jq_.html files show the AJAX `get` method in jQuery.
 
-## P5
+### P5
 (Short intro)
+
+### Review of Homework
+
+### Midterm Project Discussion
