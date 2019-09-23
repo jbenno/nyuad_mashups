@@ -2,6 +2,7 @@
 
 ### IM Program Policy
 - Brief introduction by Ume and Jack on the IM Program Policies
+- [IM Lab Webpage](https://www.nyuadim.com/lab)
 
 ### JavaScript Workshops/Tutorings
 
