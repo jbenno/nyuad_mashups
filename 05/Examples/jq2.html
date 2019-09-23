@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"   integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="   crossorigin="anonymous"></script>
+    
+    <title>jQuery</title>
+</head>
+<body>
+    <div id="firstDiv">Click here.</div>
+<script>
+    $( document).ready( function()
+    {
+        $("#firstDiv").click(function() //selects the div tag by id
+        {
+            console.log("Clicked.");
+        });
+    });
+</script>
+</body>
+</html>

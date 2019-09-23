@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"   integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="   crossorigin="anonymous"></script>
+    
+    <title>jQuery</title>
+</head>
+<body>
+    <div id="firstDiv">Click here.</div>
+    <div id="secondDiv">Click here, too.</div>
+<script>
+    $( document).ready( function()
+    {
+        $("div").click(function()
+        {
+            console.log("Clicked.");
+            console.log( $(this)); // 'this' object refers to the selected object in the $() statement
+            
+            $( this).hide();
+        });
+    });
+</script>
+</body>
+</html>

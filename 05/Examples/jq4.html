@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"   integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="   crossorigin="anonymous"></script>
+    
+    <title>jQuery</title>
+</head>
+<body>
+
+    <button id="getJson">Get JSON</button>
+<script>
+    //now loading JSON documents via jQuery
+    $( document).ready( function()
+    {
+        $( "#getJson").click( function()
+        {
+            let url = "https://api.openaq.org/v1/latest?country=AE"; 
+            $.getJSON(url, function(data)
+                    {
+                        console.log(data);
+                    })
+        })
+        
+            
+    });
+</script>
+</body>
+</html>
