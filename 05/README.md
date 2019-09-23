@@ -37,3 +37,6 @@ Some more example script is in the [Examples](/05/Examples/) folder. The jq_.htm
 ### Review of Homework
 
 ### Midterm Project Discussion
+
+## Assignments
+- Read and sign IM Program Policy
