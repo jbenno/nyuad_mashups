@@ -20,8 +20,10 @@
 
 6. Connect to an API with a key
 
-## jQuery
+See example scripts in the [Examples](/05/Examples/) folder. Start with the api_.html files.
 
+## jQuery
+Some more example script is in the [Examples](/05/Examples/) folder. The jq_.html files show the AJAX `get` method in jQuery.
 
 ## P5
 (Short intro)
