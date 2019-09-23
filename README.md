@@ -30,7 +30,7 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 3 JS](/03_JS/)
 
-#### [WEEK 4 Making the Page (Inter)Active - Proposals for Project 1](/04/)
+#### [WEEK 4 Making the Page (Inter)Active with jQuery and AJAX](/04/)
 
 #### [WEEK 5 Data](/05/)
 
