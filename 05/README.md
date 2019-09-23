@@ -3,6 +3,8 @@
 ### IM Program Policy
 - Brief introduction by Ume and Jack on the IM Program Policies
 
+### JavaScript Workshops/Tutorings
+
 ### Getting data from APIs
 
 1. Creating JSON data:
