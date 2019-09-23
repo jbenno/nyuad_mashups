@@ -1,4 +1,6 @@
-# Getting data from APIs
+# Week 5
+
+## Getting data from APIs
 
 1. Creating JSON data:
 - same as `object` in JavaScript, however strict: only `"` and no `'` allowed, identifiers have to be in `"`, no final `,` or `;`
@@ -17,3 +19,9 @@
 7. Make page interactive
 
 6. Connect to an API with a key
+
+## jQuery
+
+
+## P5
+(Short intro)
