@@ -28,8 +28,8 @@
 
 See example scripts in the [Examples](/05/Examples/) folder. Start with the api_.html files.
 
-### jQuery
-Some more example script is in the [Examples](/05/Examples/) folder. The jq_.html files show the AJAX `get` method in jQuery.
+### jQuery, fetch, etc.
+Some more example script is in the [Examples](/05/Examples/) folder. The jq_.html files show the AJAX `get` method in jQuery. The 'fetch' files give the same example using the `fetch` method and ES6 syntax and expressions.
 
 ### P5
 (Short intro)
@@ -40,3 +40,4 @@ Some more example script is in the [Examples](/05/Examples/) folder. The jq_.htm
 
 ## Assignments
 - Read and sign IM Program Policy
+- build a page using an interactive API request using 'fetch'
