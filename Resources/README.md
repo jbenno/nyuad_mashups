@@ -16,6 +16,9 @@ Very similar however a bit easier to follow - good reference to work on CSS and 
 ### jQuery
 - another good video intro to jQuery: [JavaScript AJAX XHR for Beginners](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005590335&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
 
+### APIs through fetch etc. (using ES6 expressions)
+- and another video: [AJAX JavaScript XHR and Fetch](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005585514&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
+
 ### Libraries
 [Node.js](https://nodejs.org/en/)
 
