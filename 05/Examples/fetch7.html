@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fetch</title>
+</head>
+<body>
+    <div id="data"></div>
+    <script>
+        //requires a local web server
+    let url = "https://api.openaq.org/v1/latest?country=AE";
+        
+    fetch(url)
+        .then(response => response.json() ) //the { and return are no longer necessary
+        
+        .then(json => document.querySelector('#data').innerHTML = json.results[0].city )
+       .catch(error => console.log(error))
+        
+    </script>
+</body></html>

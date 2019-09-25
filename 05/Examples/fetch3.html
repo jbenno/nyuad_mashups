@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fetch</title>
+</head>
+<body>
+
+    <script>
+        //requires a local web server
+    let url = "https://api.openaq.org/v1/latest?country=AE";
+        
+    fetch('Sample.txt').then(function(response)
+                            {
+        console.log(response);
+        console.log(response.headers.get('Content-Type'))
+        console.log(response.headers.get('Date'))
+      
+        return response.text()
+    }).then(function(text)
+            {
+        console.log(text);
+    })
+        
+        
+    </script>
+</body></html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fetch</title>
+</head>
+<body>
+
+    <script>
+        //requires a local web server
+
+/*    fetch('Sample.txt').then(function(response)
+    {
+        return response.text()
+    }).then(function(text)
+            {
+        console.log(text);
+    })
+  */      
+//alternatevely chain the promisses together:
+    fetch('Sample.txt').then(function(response)
+    {
+        response.text().then(function(text)
+            {
+        console.log(text);
+        })
+    })
+     
+        
+    </script>
+</body></html>
