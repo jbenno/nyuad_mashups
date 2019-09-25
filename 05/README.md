@@ -40,4 +40,6 @@ Some more example script is in the [Examples](/05/Examples/) folder. The jq_.htm
 
 ## Assignments
 - Read and sign IM Program Policy
-- build a page using an interactive API request using 'fetch'
+- Read and work through chapter 12 of the book [Learning JavaScript](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/learning-javascript-3rd/9781491914892/ch12.html)
+from Learning JavaScript, 3rd Edition
+- build a page using an interactive API request using 'fetch' and `then` (Asynchronous programming in ES6 as discussed in the book and shown in my examples in the 'fetch_.js' files)
