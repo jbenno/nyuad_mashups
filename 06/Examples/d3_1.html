@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    <!-- Selection
+-->
+    
+    <div id="data">
+        <p>First paragraph.</p>
+        <p>Second paragraph.</p>
+        Text outside paragraphs with <b>some attributes</b>.
+    </div>
+    
+    <script>
+        sel = d3.select( "#data" ).selectAll( "p" ).style("color", "blue");
+    
+    </script>
+    
+</body></html>

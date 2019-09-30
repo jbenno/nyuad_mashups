@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+ 
+    <svg width=600 height=400>
+        <rect id="data" x=20 y=20 width=100 height=50 />
+    </svg>
+    
+    <script>
+        let ds1 = 3;
+        let sel = d3.select( "#data" ).attr("fill", (ds1<0 ? "red" : "green"));
+    makeDragDrop();
+        
+    function makeDragDrop() {
+    var d = undefined, c = undefined;
+        
+    var drag = d3.drag()            
+        .on( "start", function() {                                
+            c = d3.select( this ).attr( "fill" );
+            d = d3.select( this ).attr( "fill", "lime" );
+        } )
+        .on( "drag", function() {                                 
+            var pt = d3.mouse( d3.select( this ).node() );
+            d.attr( "x", pt[0] ).attr( "y", pt[1] );
+        } )
+        .on( "end", function() {                                  
+            d.attr( "fill", c );
+            d = undefined;
+        } );
+
+    drag( d3.select( "#data" ) );       
+}
+    </script>
+    
+</body></html>
