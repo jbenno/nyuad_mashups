@@ -1,4 +1,5 @@
 # Week 6 Graphics and Scraping
+[How to submit contributions to Github](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
 ### SVG
 - [Vector Graphics with SVG & HTML by Aarthi Elumalai](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005595140&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
