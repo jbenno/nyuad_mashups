@@ -18,3 +18,5 @@ Two good introductions to D3:
 ### Scraping
 - [Learning Web Scraping with JavaScript by Mustapha Mekhatria](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005591012&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
 - [Web scraping with Python : collecting more data from the modern web. By Ryan E. Mitchell](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005583865&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
+
+### Data Storytelling
