@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    
+    <svg id="data"></svg>
+    
+    <script>
+
+    var ds = [ [0, 0], [1, 3], [2, 4], [3, 5], [4, 2],
+               [5, 2], [6, 3], [7, 1], [8, 3] , [9,2]];
+        
+    var xSc = d3.scaleLinear().domain([0,9]).range([50,250]);
+    var ySc = d3.scaleLinear().domain([-2,5]).range([175,25]);
+        
+    ds = ds.map( d => [xSc(d[0]), ySc(d[1])] );                   
+
+    // a circles for each data point
+    let svg = d3.select( "#data" );
+        
+        svg.append( "g" ).selectAll( "circle" )     
+        .data( ds ).enter().append( "circle" ).attr( "r", 3 )
+        .attr( "cx", d=>d[0] ).attr( "cy", d=>d[1] );
+
+    // Generate a line to connect the data points
+        
+    var lnMkr = d3.line().curve(d3.curveLinear);    
+    //var lnMkr = d3.line().curve(d3.curveNatural);
+    //var lnMkr = d3.line().curve(d3.curveStep);
+    svg.append( "g" ).append( "path" )                 .attr( "d", lnMkr(ds) )                                  
+        .attr( "fill", "none" ).attr( "stroke", "red" );      
+    </script>
+
+    
+</body></html>
