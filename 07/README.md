@@ -7,4 +7,4 @@
 - Download and install Anaconda: [anaconda.com](https://www.anaconda.com/distribution/)
 - Install Jupyter Notebooks: [Project Jupyter](https://jupyter.org/install)
 - Start the Notebooks by typing 'jupyter notebook' into the prompt of your terminal shell and enter.
-- Open the example ipython notebook: 
+- Open the example ipython notebook: [Scraping Websites for Textmining](/07/Text_Mining_Websites.ipynb)
