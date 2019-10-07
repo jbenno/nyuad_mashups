@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    
+    <canvas width=1200 height=1200></canvas>
+    
+    <script>
+        
+        
+        function drawMandelbrot() {
+            let can = d3.select( "canvas" );                         let cx = can.node().getContext( "2d" );
+
+            let xX = 800, yY = 600, maxIterations = 2000;                     
+            let x0 = -2, x1 = 0.5, y0 = -1, y1 = 1;
+
+    var scX = d3.scaleLinear().domain([0, xX]).range([x0, x1]);  
+    var scY = d3.scaleLinear().domain([0, yY]).range([y1, y0]);
+
+    var scC = d3.scaleLinear().domain([0,10,25,35,45,55,65,200, 1999,2000])  
+        .range( ["white","red","orange","yellow","lightyellow",
+		 "white", "lightblue", "blue","black"] );
+
+        function mandelbrot( x, y ) {                                 
+            let u=0.0, v=0.0, k=0;
+                for( k=0; k<maxIterations && (u*u + v*v)<4; k++ ) {
+                    let t = u*u - v*v + x;
+                        v = 2*u*v + y;
+                        u = t;
+                }
+                return k;
+            }
+
+    for( let j=0; j<yY; j++ ) {                                  
+        for( let i=0; i<xX; i++ ) {
+            let d = mandelbrot( scX(i), scY(j) );
+            cx.fillStyle = scC( d );
+            cx.fillRect( i, j, 1, 1 );
+        }
+    }
+}      
+        drawMandelbrot();
+        
+    </script>
+
+    
+</body></html>
