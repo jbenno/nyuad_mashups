@@ -40,6 +40,8 @@ This class is about creating interactive web page applications that integrate (â
 
 - Fall break
 
+#### [WEEK 8 and 9 Scraping, Textmining, Data]
+
 Teaching Methodology
 --------------------
 This is a production-based course that involves programming work both inside and outside of the classroom. During class, code examples will be presented, written, and reviewed. Examples will iteratively build off lessons learned in preceding classes and students will be encouraged to write code, ask questions, and engage in both creative and technical discussion.
