@@ -15,8 +15,4 @@ Two good introductions to D3:
 - [p5js.org](https://p5js.org)
 - [Dan Shiffman, Nature of Code in P5.js](https://github.com/nature-of-code/NOC-S18)
 
-### Scraping
-- [Learning Web Scraping with JavaScript by Mustapha Mekhatria](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005591012&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
-- [Web scraping with Python : collecting more data from the modern web. By Ryan E. Mitchell](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005583865&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
-
 ### Data Storytelling
