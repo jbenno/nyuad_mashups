@@ -8,7 +8,7 @@
 
 ### Scraping
 - [Web scraping with Python : collecting more data from the modern web. By Ryan E. Mitchell](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005583865&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
-- [Jupyter Notebook to textming webpages](https://github.com/jbenno/nyuad_mashups/blob/master/07/Text_Mining_Websites.ipynb)
+- [Jupyter Notebook to textming webpages](hhttps://www.dropbox.com/s/afq7shc32yzdbue/Text_Mining_Websites.ipynb?dl=0)
 
 ### Assignments
 - Upcoming topics / talks:
