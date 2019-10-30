@@ -40,7 +40,15 @@ This class is about creating interactive web page applications that integrate (â
 
 - Fall break
 
-#### [WEEK 8 and 9 Scraping, Textmining, Data]
+#### [WEEK 8 and 9 Scraping, Textmining, Data](/08)
+
+#### [WEEK 9 and 10 Server-side: NodeJS, ExpressJS](/09)
+
+#### [WEEK 11 Server-side continued, final project: ideas]
+
+#### [WEEK 12 Open Source, running servers, final project: proposals and discussion]
+
+#### [WEEK 13 and 14: Working on final project. Final project presentation]
 
 Teaching Methodology
 --------------------
