@@ -44,7 +44,7 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 9 and 10 Server-side: NodeJS, ExpressJS](/09)
 
-#### [WEEK 11 Server-side continued, final project: ideas]
+#### [WEEK 11 Server-side continued, final project: ideas](/10)
 
 #### [WEEK 12 Open Source, running servers, final project: proposals and discussion]
 
