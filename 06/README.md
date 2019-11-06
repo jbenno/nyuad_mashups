@@ -1,4 +1,4 @@
-# Week 6 Graphics and Scraping
+# Week 6 Graphics
 [How to submit contributions to Github](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
 ### SVG
