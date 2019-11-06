@@ -34,7 +34,7 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 5 Data](/05/)
 
-#### [WEEK 6 Scraping, Visualization, Projekt 1](/06/)
+#### [WEEK 6 Graphics, Visualization, Projekt 1](/06/)
 
 #### [WEEK 7 Visualisation, Animation](/07)
 
