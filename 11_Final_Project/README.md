@@ -5,7 +5,7 @@ The goal is to have the project be presentable at the IM show case.
 
 ### Requirements
 
-#### Project concept, documentation and presenation
+#### Project concept, documentation and prestenation
 - Based on your research
 - Showing a thoughtful concept
 - Well documented process (Make slides or a short paper of ca. 1500 to 3000 words on how you came up with the concept; show the drafts/sketches and explain your design decisions; tell about the development with the problems and difficulties you faced)
@@ -27,21 +27,26 @@ The goal is to have the project be presentable at the IM show case.
 
 ### Grading
 
-Each rubric has a maximum of 15 points:
-- Concept, documentation, presentation
-  - Research and concept
-  - Documentation
-  - Presentation  
+- Concept, documentation, presentation\
+  15 points Research and concept\
+  15 points Documentation\
+  15 points Presentation\ 
 
-- Techical achievments
-  - JavaScript (complexity, easy to read, well commented, server-side)
-  - User experience, graphics, interactivity
-  - Ready for show case
+- Techical achievments\
+  15 points JavaScript (complexity, easy to read, well commented, server-side)\
+  15 points User experience, graphics, interactivity\
+  15 points Ready for show case\
   
   
  ### Schedule
  - Week 11  Discussion, proposals
  - Week 12  Iteration, discussion, studio class
- - Week 13  Monday 25 November: studio class together with Jack, Wednesday 27 November: User testing
- - Week 14  Projects get finished. Monday 2 December: final testing, Wednesday 4 December: Setup for showcase.
+ - Week 13
+    - Monday 25 November: studio class together with Jack
+    - Wednesday 27 November: User testing
+ - Week 14  Projects get finished.
+    - Monday 2 December: final testing
+    - Wednesday 4 December: Setup for showcase
+    - Friday 6 December: Showcase opens until Friday 13 December
+    - Saturday 7 December: Documentation and completed project code is due for submission.
  
