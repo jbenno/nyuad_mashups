@@ -1,6 +1,11 @@
 # Final Project
 
 Your final project is to design and build an interactive web site. The site should follow your concept that expresses your creativity and be inspired by your research.
+
+The concept makes your thoughts explicit. First, it lays out the sources (things you have researched, like papers, books, websites, other people's code, also functions in code libraries which may not yet have been covered in class). The research should give your project a conceptual frame. It should show that you can on your own build on what you have learned.
+
+The creative concept presents your idea, the point of differentiation of the project, and leads through the aesthetic decisions you make.
+
 The goal is to have the project be presentable at the IM show case.
 
 ### Requirements
