@@ -25,7 +25,6 @@ The goal is to have the project be presentable at the IM show case.
 - Responsive web design and mobile functionality
 - Building your own API (make the site deliver data or information to API calls)
 
-
 ### Grading
 
 Each rubric has a maximum of 15 points:
@@ -38,3 +37,11 @@ Each rubric has a maximum of 15 points:
   - JavaScript (complexity, easy to read, well commented, server-side)
   - User experience, graphics, interactivity
   - Ready for show case
+  
+  
+ ### Schedule
+ - Week 11  Discussion, proposals
+ - Week 12  Iteration, discussion, studio class
+ - Week 13  Monday 25 November: studio class together with Jack, Wednesday 27 November: User testing
+ - Week 14  Projects get finished. Monday 2 December: final testing, Wednesday 4 December: Setup for showcase.
+ 
