@@ -56,9 +56,9 @@ This is a production-based course that involves programming work both inside and
 
 Grading
 -------
-**10%** Attendance  
-**10%** Participation  
-**20%** Homework Assignments  
+**10%** Participation (attendance, active participation in class)
+**15%** Homework Assignments
+**15%** Presentation  
 **30%** Midterm Project  
 **30%** Final Project  
 
@@ -90,16 +90,8 @@ Midterm Project
 ---------------
 The midterm project will involve creating a single page (client-side only) web experience that, upon user input, responds with data from at least 2 public web APIs and/or a queryable dataset. You will be expected to present your site, discuss your work, articulate your creative process, and document the entire project.
 
-Final Project
--------------
-Your final project will require developing a comprehensive single page web experience that includes:
-
-* client-side and server-side web development
-* at least one public web API (or queryable data set) as a data source
-* at least one javascript “interaction” library
-* database storage  
-* public web API routes to serve and share your stored data  
-* documentation for both the project and the open web API
+[Final Project](/11_Final_Project)
+---------------
 
 Readings
 --------
