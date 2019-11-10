@@ -14,7 +14,7 @@ The goal is to have the project be presentable at the IM show case.
 - A slide deck of web-presentation of 3 to 5 slides explaining your project and introducing it to the class
 
 #### Technical achievments
-- The project will be based on JavaScript (you may run other code, too, like php, Python, etc.)
+- The project will be based on JavaScript (you may run other code in addition, like php, Python, etc.)
 - The site is interactive - it takes user inputs and reacts
 - The site delivers a sensual user experience (it uses dynamic graphics, and/or animation, and/or sound, etc.)
 - The site should interact with servers. This can be via APIs or via database calls. Required is either a server-side database backend responding to the site's requests or at least two external APIs that are called and brought together.
