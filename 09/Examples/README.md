@@ -1,4 +1,5 @@
 # Some examples on node.js
+The file are in [/09/Examples/app1/](/09/Examples/app1) and [/09/Examples/app2/](/09/Examples/app2)
 
 - create a new folder for your app (e.g. /app1/)
 - open terminal - go to your folder:
