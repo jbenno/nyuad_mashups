@@ -29,6 +29,7 @@ The goal is to have the project be presentable at the IM show case.
 *Extra Credits:*
 - Responsive web design and mobile functionality
 - Building your own API (make the site deliver data or information to API calls)
+- Accessibility 
 
 ### Grading
 
