@@ -43,8 +43,14 @@ The goal is to have the project be presentable at the IM show case.
   15 points User experience, graphics, interactivity\
   15 points Ready for show case\
   
+### Alternative Project Suggestion
+As discussed, there is the possibility for a ***hardware mashup***: Setting up a mashup social network for IM, following the example of [occupy.here](https://github.com/occupyhere/occupy.here), originally a political intervention by [Dan Phiffer](https://phiffer.org). Have also a look at [Freifunk](https://freifunk.net/en/) resp. the [Freifunk Github](https://github.com/freifunk). 
+
+We will discuss the detailed requirements for this projects along with working on a proposal.
   
  ### Schedule
+ [Gabi's timeline for the final project](https://drive.google.com/file/d/1UawlcrDtma3zzqpvzJOqyvXiI_S6LmqD/view)
+ 
  - Week 11  Discussion, proposals
  - Week 12  Iteration, discussion, studio class
  - Week 13
