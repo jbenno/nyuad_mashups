@@ -1,7 +1,6 @@
 # Mashups - IM-UH 2310
 
 *This is still the draft syllabus and subject to change*
-*It will become my version of Craig Protzel's class (Thanks Craig! - See his syllabus here: [Mashups](https://github.com/craigprotzel/Mashups/))*
 
 School: NYUAD
 Program: Interactive Media  
