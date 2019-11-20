@@ -111,8 +111,66 @@ MongoClient.connect(url, function(err, db) {
 });
 ```
 
-- `query = { name: /^A/ } returns documents where `name` starts with an "A"
-- with `const sortResults = { name: 1 };` and `.sort(sortResults)` added directly after the `find()` statement sorts results ascending with the name. Parameter -1 sorts descending 
+- `query = { name: /^A/ }` returns documents where `name` starts with an "A"
+- with `const sortResults = { name: 1 };` and `.sort(sortResults)` added directly after the `find()` statement sorts results ascending with the name. Parameter `-1` sorts descending 
+
+`deleteOne()` deletes a document:
+
+```Javascript
+const MongoClient = require('mongodb').MongoClient;
+const url = "mongodb://localhost:27017/";
+const dbName = "newDB";
+const colName = "Cities"
+
+MongoClient.connect(url, function(err, db) {
+  if (err) throw err;
+  const dbo = db.db(dbName);
+  const obj = { name: "Muscat", country: "U.A.E." };
+  dbo.collection(colName).insertOne(obj, function(err, res) {
+    if (err) throw err;
+    console.log(`New document ${obj.name} inserted in ${colName}`);
+    db.close();
+  });
+
+
+  const query = { name: 'Muscat' };
+  dbo.collection(colName).deleteOne(query, function(err, obj) {
+    if (err) throw err;
+    console.log(`Document ${query.name} deleted`);
+    db.close();
+  });
+});
+```
+
+
+`updateOne()` updates a value of a given key in the queried document:
+```Javascript
+const MongoClient = require('mongodb').MongoClient;
+const url = "mongodb://localhost:27017/";
+const dbName = "newDB";
+const colName = "Cities"
+
+MongoClient.connect(url, function(err, db) {
+  if (err) throw err;
+  const dbo = db.db(dbName);
+  const obj = { name: "Muscat", country: "U.A.E." };
+  dbo.collection(colName).insertOne(obj, function(err, res) {
+    if (err) throw err;
+    console.log(`New document ${obj.name} inserted in ${colName}`);
+    db.close();
+  });
+
+
+  const query = { name: 'Muscat' };
+  const correction = { $set: {name: "Muscat", country: "Oman" } };
+  dbo.collection(colName).updateOne(query, correction, function(err, res) {
+    if (err) throw err;
+    console.log(`Document ${query.name} updated`);
+    db.close();
+  });
+});
+```
+
 
 
 
