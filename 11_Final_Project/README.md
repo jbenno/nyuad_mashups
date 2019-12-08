@@ -68,6 +68,7 @@ We will discuss the detailed requirements for this projects along with working o
  ### Showcase
  - Date: Thursday 12 December
  - Schedule
+  - before 17:00  Projects to be installed
   - 18:00 to 20:00  Projects presented in room C3 006 and around
   - 20:00 to 21:00  Performances
   - from 21:00  all checked out equipment to be returned to IM Lab. Everything to be returned this evening.
