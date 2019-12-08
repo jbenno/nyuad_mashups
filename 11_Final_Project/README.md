@@ -64,4 +64,10 @@ We will discuss the detailed requirements for this projects along with working o
     - Wednesday 11 December: Setup for showcase
     - Thursday 12 December: Showcase takes place
     - Friday 13 December: Documentation and completed project code is due for submission.
- 
+    
+ ### Showcase
+ - Date: Thursday 12 December
+ - Schedule
+  - 18:00 to 20:00  Projects presented in room C3 006 and around
+  - 20:00 to 21:00  Performances
+  - from 21:00  all checked out equipment to be returned to IM Lab. Everything to be returned this evening.
