@@ -41,11 +41,11 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 9 and 10 Server-side: NodeJS](/09)
 
-#### [WEEK 11 Server-side continued: Data bases, final project: ideas](/11)
+#### [WEEK 11 Server-side continued: Data bases, final project: ideas](/10)
 
-#### [WEEK 12 Open Source, running servers, final project: proposals and discussion]
+#### [WEEK 12 Open Source, running servers, final project: proposals and discussion](/11)
 
-#### [WEEK 13 and 14: Working on final project. Final project presentation]
+#### [WEEK 13 and 14: Working on final project. Final project presentation](/11)
 
 Teaching Methodology
 --------------------
