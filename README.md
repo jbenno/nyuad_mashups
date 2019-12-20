@@ -1,7 +1,5 @@
 # Mashups - IM-UH 2310
 
-*This is still the draft syllabus and subject to change*
-
 School: NYUAD
 Program: Interactive Media  
 Course Number: IM-UH 2310
@@ -27,13 +25,13 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 2 Web Dev 101](/02_Web_Dev_101/)
 
-#### [WEEK 3 JS](/03_JS/)
+#### [WEEK 3 JavaScript](/03_JS/)
 
 #### [WEEK 4 Making the Page (Inter)Active with jQuery and AJAX](/04/)
 
 #### [WEEK 5 Data](/05/)
 
-#### [WEEK 6 Graphics, Visualization, Projekt 1](/06/)
+#### [WEEK 6 Graphics, Visualization, Start Midterm Project](/06/)
 
 #### [WEEK 7 Visualisation, Animation](/07)
 
@@ -41,9 +39,9 @@ This class is about creating interactive web page applications that integrate (â
 
 #### [WEEK 8 and 9 Scraping, Textmining, Data](/08)
 
-#### [WEEK 9 and 10 Server-side: NodeJS, ExpressJS](/09)
+#### [WEEK 9 and 10 Server-side: NodeJS](/09)
 
-#### [WEEK 11 Server-side continued, final project: ideas](/11)
+#### [WEEK 11 Server-side continued: Data bases, final project: ideas](/11)
 
 #### [WEEK 12 Open Source, running servers, final project: proposals and discussion]
 
