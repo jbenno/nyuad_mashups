@@ -1,4 +1,4 @@
-# Week 7 - D3 continued; scraping
+# Week 7 - D3 continued. Scraping
 
 - D3 examples and readings see Week 6
 
